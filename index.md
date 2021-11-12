@@ -11,7 +11,6 @@ layout: default
 Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
 
 
-
 ![Basic Understanding of a EC2 Instance](https://www.tutorialspoint.com/amazon_web_services/images/architecture.jpg)
 
 
@@ -34,8 +33,10 @@ Offer five pricing models to pay for Amazon EC2 instances: On-Demand, Savings Pl
 
 ## Before you can launch and connect to an Amazon EC2 instance, you need to create a key pair, unless you already have one. You can create a key pair using the Amazon EC2 console, and then you can launch your EC2 instance.
 
-# To create a key pair
+## To create a key pair
 Look in Amazon EC2 in the Amazon EC2 User Guide.
+
+![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
 
 ##To launch the EC2 instance and mount an EFS file system
 
@@ -85,7 +86,7 @@ You can't access your EC2 instance by Secure Shell (SSH) using this security gro
 
 12. Select the check box for the key pair that you created, and then choose Launch Instances.
 
-![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
+
 
 
 ### I hope this was useful to how to setup Apache Server and being expose to more Linux
