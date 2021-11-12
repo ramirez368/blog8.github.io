@@ -31,7 +31,8 @@ Offer five pricing models to pay for Amazon EC2 instances: On-Demand, Savings Pl
 
 ## Create your EC2 resources and launch your EC2 instance
 
-## Important: Before you can launch and connect to an Amazon EC2 instance, you need to create a key pair, unless you already have one. You can create a key pair using the Amazon EC2 console, and then you can launch your EC2 instance.
+## Important: 
+Before you can launch and connect to an Amazon EC2 instance, you need to create a key pair, unless you already have one. You can create a key pair using the Amazon EC2 console, and then you can launch your EC2 instance.
 
 ## To create a key pair
 Look in Amazon EC2 in the Amazon EC2 User Guide.
