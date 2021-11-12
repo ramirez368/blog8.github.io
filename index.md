@@ -29,6 +29,8 @@ Get started quickly through AWS Migration Tools, AWS Managed Services, or Amazon
 ## Flexible Pricing
 Offer five pricing models to pay for Amazon EC2 instances: On-Demand, Savings Plans, Dedicated Hosts, Spot Instances and Per Second Billing.
 
+![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
+
 ## Create your EC2 resources and launch your EC2 instance
 
 ## Important: 
@@ -37,9 +39,8 @@ Before you can launch and connect to an Amazon EC2 instance, you need to create 
 ## To create a key pair
 Look in Amazon EC2 in the Amazon EC2 User Guide.
 
-![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
+## Steps to Launch EC2 Instance and mount an EFS file system
 
-##To launch the EC2 instance and mount an EFS file system
 
 1. Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/.
 
