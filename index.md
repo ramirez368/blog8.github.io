@@ -3,18 +3,17 @@ layout: default
 ---
 
 
-[Quantum Computer](https://www.youtube.com/watch?v=JhHMJCUmq28&t=33s).
+[EC2](https://www.youtube.com/watch?v=8TlukLu11Yo).
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Quantum Computing
-Next remarkable technology trend is quantum computing, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications in banking and finance, to manage credit risk, for high-frequency trading and fraud detection.
+# What is Amazon EC2?
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
 
-SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
 
-## Why Two Tech Giants Are Arguing About Quantum Computers:
-## Is it a Google or IBM credit?
-![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
+## 
+## 
+![Basic Understanding of a EC2 Instance](https://www.tutorialspoint.com/amazon_web_services/images/architecture.jpg)
 
 
 The tech giant announced that it had reached a long-anticipated milestone known as “quantum supremacy”—a watershed moment in which a quantum computer executes a calculation that no ordinary computer can match. In a new paper in Nature, Google described just such a feat performed on its state-of-the-art quantum machine, code-named “Sycamore.” Although quantum computers are not yet at a point where they can do useful things, this result demonstrates that they have an inherent advantage over ordinary computers for some tasks.
