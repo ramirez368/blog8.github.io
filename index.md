@@ -27,12 +27,12 @@ Provide various security standards and features, reduce the risk of human error 
 ## Easy Migration
 Get started quickly through AWS Migration Tools, AWS Managed Services, or Amazon Lightsail with the help from AWS Professional Services, AWS Support and APN Partners.
 
-# Flexible Pricing
+## Flexible Pricing
 Offer five pricing models to pay for Amazon EC2 instances: On-Demand, Savings Plans, Dedicated Hosts, Spot Instances and Per Second Billing.
 
 ## Create your EC2 resources and launch your EC2 instance
 
-# Before you can launch and connect to an Amazon EC2 instance, you need to create a key pair, unless you already have one. You can create a key pair using the Amazon EC2 console, and then you can launch your EC2 instance.
+## Before you can launch and connect to an Amazon EC2 instance, you need to create a key pair, unless you already have one. You can create a key pair using the Amazon EC2 console, and then you can launch your EC2 instance.
 
 # To create a key pair
 Look in Amazon EC2 in the Amazon EC2 User Guide.
@@ -85,7 +85,7 @@ You can't access your EC2 instance by Secure Shell (SSH) using this security gro
 
 12. Select the check box for the key pair that you created, and then choose Launch Instances.
 
-![ ](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Quantum_Still_NoLogo-1-655x368.jpg)
+![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
 
 
 ### I hope this was useful to how to setup Apache Server and being expose to more Linux
